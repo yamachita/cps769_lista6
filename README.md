@@ -1,5 +1,5 @@
-Para rodar a aplicação siga os passos:
+## Para rodar a aplicação siga os passos abaixo:
 
-1 - Instalar dependências especificadas no requirements.txt
-2 - Colocar chave API OpenAI no arquivo .env
-3 - Executar: "streamlit run app.py"
+- Instalar dependências especificadas no requirements.txt
+- Colocar chave API OpenAI no arquivo .env
+- Executar: "streamlit run app.py"
